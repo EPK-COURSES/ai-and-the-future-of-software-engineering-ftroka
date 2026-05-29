@@ -14,8 +14,4 @@
 
 [7] Stack Overflow, "2025 Developer Survey," 2025. Available: <https://survey.stackoverflow.co/2025>
 
-[8] McKinsey & Company, "Technology Trends Outlook 2025," 2025. Available: <https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-top-trends-in-tech>
-
-[9] ACM, "ACM Code of Ethics and Professional Conduct." Available: <https://www.acm.org/code-of-ethics>
-
-[10] IEEE Computer Society, "Software Engineering Professional Practice Resources." Available: <https://www.computer.org/education>
+[8] ACM, "ACM Code of Ethics and Professional Conduct." Available: <https://www.acm.org/code-of-ethics>
