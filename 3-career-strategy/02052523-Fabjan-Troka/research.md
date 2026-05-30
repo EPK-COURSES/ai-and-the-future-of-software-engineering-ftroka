@@ -30,6 +30,8 @@ AI can help with learning, but it cannot replace real understanding.
 
 Sengul, Neykova, and Destefanis argue that conversational AI is raising important questions for software engineering education, especially about how students and professionals should learn in the future [3].
 
+Uden and Dix explain that software engineers need lifelong learning skills because software and technology continue to evolve. This means developers must keep improving their problem-solving, critical thinking, and learning abilities during their whole career [9].
+
 A good engineer should use AI for explanations and examples, but should still test answers and practice independently.
 
 For example, if AI generates a function, the engineer should not only copy it. The engineer should ask: does this code solve the real problem, is it secure, is it readable, and can it be maintained later?
@@ -86,7 +88,17 @@ Small consistent progress is better than trying to learn everything in one week.
 
 A realistic learning plan for a student could be to focus on one main topic per month. For example, one month can be dedicated to backend development, another to databases, another to testing, and another to AI-assisted development. This prevents confusion and helps learning become more organized.
 
-## 9. How AI Changes Career Expectations
+## 9. Human and Professional Skills
+
+Technical knowledge is very important, but it is not the only thing that makes a software engineer successful. In real software projects, engineers must communicate with teammates, understand user needs, explain technical decisions, review other people’s work, and solve conflicts.
+
+Groeneveld, Vennekens, and Aerts show that software engineering education should not focus only on technical knowledge, because industry also expects skills such as self-reflection, communication, teamwork, and conflict resolution [10].
+
+These skills become even more important in the AI era. AI can generate code, but it cannot fully understand the business context, team communication, ethical responsibility, or long-term consequences of technical decisions.
+
+For this reason, future software engineers should develop both technical and human skills. A strong engineer should be able to write code, but also explain why a solution is useful, safe, maintainable, and understandable for other people.
+
+## 10. How AI Changes Career Expectations
 
 AI may reduce the value of repetitive coding tasks. This means engineers must become better at higher-level skills such as understanding user needs, writing requirements, designing maintainable systems, reviewing AI-generated code, testing software, identifying security risks, and communicating with teams.
 
@@ -96,12 +108,14 @@ This means that the future software engineer should not only ask “Can I write 
 
 Industry reports also show that AI is changing job expectations by reducing some repetitive tasks and increasing the importance of judgment, analysis, and adaptability [6].
 
-## 10. Conclusion
+Qiu, Puccinelli, Ciniselli, and Di Grazia describe AI as a complementary force that changes developers from manual coders into professionals who collaborate with AI tools. This supports the idea that future engineers need adaptability, critical judgment, and the ability to work effectively with AI systems [11].
 
-AI is changing software engineering, but it does not remove the need for skilled engineers. Instead, it changes what makes an engineer valuable. The future software engineer must combine technical knowledge, continuous learning, AI literacy, critical thinking, and communication.
+## 11. Conclusion
+
+AI is changing software engineering, but it does not remove the need for skilled engineers. Instead, it changes what makes an engineer valuable. The future software engineer must combine technical knowledge, continuous learning, AI literacy, critical thinking, communication, and professional responsibility.
 
 The best career strategy is not to compete against AI, but to learn how to work with AI while keeping strong human judgment and engineering understanding.
 
 For me, the best strategy is to use AI as a support tool, but not as a shortcut. I should continue practicing, building projects, reading documentation, and improving my ability to explain technical decisions. In the future, the strongest engineers will not be those who only use AI, but those who understand when AI is useful and when human judgment is necessary.
 
-Overall, the research shows that AI is not only a coding tool, but also a reason for software engineers to develop stronger learning habits, practical skills, and professional responsibility [1][2][3].
+Overall, the research shows that AI is not only a coding tool, but also a reason for software engineers to develop stronger learning habits, practical skills, professional communication, and ethical responsibility [1][2][3][9][10][11].
