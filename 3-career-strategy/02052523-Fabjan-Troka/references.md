@@ -19,3 +19,5 @@
 [9] L. Uden and A. Dix, "Lifelong Learning for Software Engineers," 2000. Available: <https://www.alandix.com/academic/papers/wcc-pbl-2000/wcc-pbl-2000.pdf>
 
 [10] W. Groeneveld, J. Vennekens, and K. Aerts, "Software Engineering Education Beyond the Technical: A Systematic Literature Review," 2019. Available: <https://arxiv.org/pdf/1910.09865>
+
+[11] K. Qiu, N. Puccinelli, M. Ciniselli, and L. Di Grazia, "From Today's Code to Tomorrow's Symphony: The AI Transformation of Developer's Routine by 2030," arXiv, 2024. Available: <https://arxiv.org/pdf/2405.12731>
