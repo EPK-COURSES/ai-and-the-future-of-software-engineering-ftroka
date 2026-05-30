@@ -15,3 +15,5 @@
 [7] Stack Overflow, "2025 Developer Survey," 2025. Available: <https://survey.stackoverflow.co/2025>
 
 [8] ACM, "ACM Code of Ethics and Professional Conduct." Available: <https://www.acm.org/code-of-ethics>
+
+[9] L. Uden and A. Dix, "Lifelong Learning for Software Engineers," 2000. Available: <https://www.alandix.com/academic/papers/wcc-pbl-2000/wcc-pbl-2000.pdf>
