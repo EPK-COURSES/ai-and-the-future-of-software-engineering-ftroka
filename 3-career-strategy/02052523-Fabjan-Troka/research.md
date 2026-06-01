@@ -118,4 +118,4 @@ The best career strategy is not to compete against AI, but to learn how to work 
 
 For me, the best strategy is to use AI as a support tool, but not as a shortcut. I should continue practicing, building projects, reading documentation, and improving my ability to explain technical decisions. In the future, the strongest engineers will not be those who only use AI, but those who understand when AI is useful and when human judgment is necessary.
 
-Overall, the research shows that AI is not only a coding tool, but also a reason for software engineers to develop stronger learning habits, practical skills, professional communication, and ethical responsibility [1][2][3][9][10][11].
+Overall, the research shows that AI is not only a coding tool, but also a reason for software engineers to develop stronger learning habits, practical skills, professional communication, and ethical responsibility [1], [2], [3], [9], [10], [11].
